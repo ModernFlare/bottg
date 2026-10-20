@@ -1,7 +1,7 @@
 import asyncio
 
 async def main():
-    print("Hiddify Bot: подключен модуль API 3x-ui")
+    print("Hiddify Bot: запущен основной цикл structlog")
 
 if __name__ == "__main__":
     asyncio.run(main())
